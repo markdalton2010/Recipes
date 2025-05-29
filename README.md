@@ -3,10 +3,10 @@
 This app demonstrates loading a list of recipes from an API using SwiftUI, image loading and caching. Here are some screenshots:
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/e07b3709-d754-4444-b944-4b0e9e8fefdf" width="220" />
-  <img src="https://github.com/user-attachments/assets/778ca21a-d31e-411b-95ab-8f9032c3982c" width="220" />
-  <img src="https://github.com/user-attachments/assets/d9649cca-7e3c-4b04-b6c7-f6e7bfdc081e" width="220" />
-  <img src="https://github.com/user-attachments/assets/309c30d6-ed91-4624-86aa-f0a6d7ffb9e6" width="220" />
+  <img src="https://github.com/user-attachments/assets/e07b3709-d754-4444-b944-4b0e9e8fefdf" width="180" />
+  <img src="https://github.com/user-attachments/assets/778ca21a-d31e-411b-95ab-8f9032c3982c" width="180" />
+  <img src="https://github.com/user-attachments/assets/d9649cca-7e3c-4b04-b6c7-f6e7bfdc081e" width="180" />
+  <img src="https://github.com/user-attachments/assets/309c30d6-ed91-4624-86aa-f0a6d7ffb9e6" width="180" />
 </p>
 
 ---
